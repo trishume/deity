@@ -4,7 +4,7 @@ var HOST = "localhost";
 var cp = require("child_process");
 var net = require("net");
 
-// Make sure that dietyd is running.
+// Make sure that deityd is running.
 ensureDaemon();
 
 // Ensures that deityd is running by trying to connect to its socket.
@@ -40,7 +40,7 @@ function ensureDaemon() {
         socket.end();
         socket.destroy();
 
-        console.error("Can't determine if dietyd is running");
+        console.error("Can't determine if deity is running");
         console.error("Try killing all node processes and trying again.");
         console.error("You may need to open port localhost:51145.")
     });
