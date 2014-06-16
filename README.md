@@ -18,7 +18,7 @@ Chapter 2: The Problem
 6. On the seventh day Arthanzel had finished the work he was doing.
 7. Then Arthanzel released his Code to Github where it will benefit all of the Programmers and called his Code, 'Deity'.
 
-Chapter 3: The Ten Commands
+Chapter 3: The Quite Few Commands and Commandments
 ----------------
 1. Deity is a Script and a Daemon that intelligently run many Programs at once such as Sass and Coffeescript and application servers without the Programmers having to babysit the Sass and Coffeescript and application servers.
 2. And the Documentation to Deity read all these words:
@@ -29,7 +29,8 @@ Chapter 3: The Ten Commands
 7. Thou shall exit the Daemon and all Processes started by Deity by executing `deity exit`.
 8. Thou shall force exit the Daemon by executing `deity force`.
 9. Thou shall not force exit needlessly, as it may leave zombie processes and memory leaks.
-10. **And Deity is a work in progress so any Programmer who complains that Deity deleted his computer shall be ignored.**
+10. Thou shall hold no creators of Diety above Arthanzel (respect the MIT license and don't mooch credit).
+11. **Deity is a work in progress so any Programmer who complains that Deity deleted his computer shall be ignored.**
 
 Roadmap
 =======
