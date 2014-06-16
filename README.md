@@ -20,7 +20,7 @@ Chapter 2: The Problem
 
 Chapter 3: The Quite Few Commands and Commandments
 ----------------
-1. Deity is a Script and a Daemon that intelligently run many Programs at once such as Sass and Coffeescript and application servers without the Programmers having to babysit the Sass and Coffeescript and application servers.
+1. Deity is a Script and a Daemon that intelligently runs many Programs at once such as Sass and Coffeescript and application servers without the Programmers having to babysit the Sass and Coffeescript and application servers.
 2. And the Documentation to Deity read all these words:
 3. Deity shall run a Daemon to intelligently run many Programs at once.
 4. Thou shall execute `deity new GLaDOS glados.sh -i --cake` to create a new Process called GLaDOS. And the command that shall be executed will be `glados.sh` with flags `-i` and `--cake`.
