@@ -4,6 +4,17 @@ var HOST = "localhost";
 var cp = require("child_process");
 var net = require("net");
 
+var INFO_MSG = [
+'Deity by Arthanzel',
+'== Usage',
+'node deity.js <command> [arguments]',
+'== Commands',
+'new <name> <command>: Creates a new process with a name and command to run',
+'list: lists all running processes',
+'kill <name>: kills a running process',
+'force: force exits the deity daemon'
+].join("\n");
+
 // Make sure that deityd is running.
 ensureDaemon();
 
@@ -89,6 +100,8 @@ function start() {
     }
     else if (command == "new") {
         send("n", getArguments());
+    } else {
+        console.log(INFO_MSG);
     }
 }
 
