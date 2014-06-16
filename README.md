@@ -30,7 +30,7 @@ Chapter 3: The Quite Few Commands and Commandments
 8. Thou shall force exit the Daemon by executing `deity force`.
 9. Thou shall not force exit needlessly, as it may leave zombie processes and memory leaks.
 10. Thou shall hold no creators of Diety above Arthanzel (respect the MIT license and don't mooch credit).
-11. **Deity is a work in progress so any Programmer who complains that Deity deleted his computer shall be ignored.**
+11. **Thou shall not complain if Diety deletes your computer for Deity is a work in progress and you shall be ignored.**
 
 Roadmap
 =======
